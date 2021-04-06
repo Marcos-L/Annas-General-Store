@@ -1,0 +1,1 @@
+{"Name": "Healing Hands", "Desc": "As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. once you use this trait, you can't use it again until you finish a long rest.", "Tags": ["Aasimar"]}

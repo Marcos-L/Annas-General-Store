@@ -1,0 +1,1 @@
+{"Name":"Waterskin\r","Price":"2sp","Desc":"A waterskin can hold 1.9L of liquid.","Tags":[]}

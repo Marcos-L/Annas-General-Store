@@ -1,0 +1,1 @@
+{"Name": "Stroke Of Luck", "Desc": "You have an uncanny knack for succeeding when you need to. if your attack misses a target within range, you can turn the miss into a hit. alternatively, if you fail an ability check, you can treat the d20 roll as a 20.\n\nonce you use this feature, you can't use it again until you finish a short or long rest.", "Tags": ["Rogue"]}

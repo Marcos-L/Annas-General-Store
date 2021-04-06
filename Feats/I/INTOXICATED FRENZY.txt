@@ -1,0 +1,1 @@
+{"Name": "Intoxicated Frenzy", "Desc": "You gain the ability to make an overwhelming number of attacks against a group of enemies. when you use your flurry of blows, you can make up to three additional attacks with it (up to a total of five flurry of blows attacks), provided that each flurry of blows attack targets a different creature this turn.", "Tags": ["Monk"]}

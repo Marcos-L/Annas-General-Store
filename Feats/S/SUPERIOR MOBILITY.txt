@@ -1,0 +1,1 @@
+{"Name": "Superior Mobility", "Desc": "Your walking speed increases by 10 feet. if you have a climbing or swimming speed, this increase applies to that speed as well.", "Tags": ["Rogue"]}

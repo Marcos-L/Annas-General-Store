@@ -1,0 +1,1 @@
+{"Name": "Skirmisher", "Desc": "You are difficult to pin down during a fight. you can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. this movement doesn\u2019t provoke opportunity attacks.", "Tags": ["Rogue"]}

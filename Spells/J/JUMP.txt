@@ -1,0 +1,1 @@
+{"Name":"Jump\r","Lv":"Level 1 (VSM)","Range":"Range=Touch.","Mat":"a grasshopper�s hind leg","Desc":"Takes 1 action to cast and lasts for 1 minute\nYou touch a creature. The creature's jump distance is tripled until the spell ends.\r","Tags":[]}

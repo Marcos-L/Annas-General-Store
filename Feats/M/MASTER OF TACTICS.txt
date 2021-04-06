@@ -1,0 +1,1 @@
+{"Name": "Master Of Tactics", "Desc": "You can use the help action as a bonus action. additionally, when you use the help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.", "Tags": ["Rogue"]}

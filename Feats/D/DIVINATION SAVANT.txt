@@ -1,0 +1,1 @@
+{"Name": "Divination Savant", "Desc": "The gold and time you must spend to copy a divination spell into your spellbook is halved.", "Tags": ["Wizard"]}

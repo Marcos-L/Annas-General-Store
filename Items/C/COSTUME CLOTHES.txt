@@ -1,0 +1,1 @@
+{"Name":"Costume Clothes\r","Price":"5gp","Desc":"Perfect for a Halloween Party!","Tags":[]}

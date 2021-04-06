@@ -1,0 +1,1 @@
+{"Name": "Supernatural Resistance", "Desc": "You gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.", "Tags": ["Paladin"]}

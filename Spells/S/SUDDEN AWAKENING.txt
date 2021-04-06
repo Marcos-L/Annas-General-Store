@@ -1,0 +1,1 @@
+{"Name":"Sudden Awakening\r","Lv":"Level 1 (V)","Range":"Range=10 feet.\r","Mat":"Nothing","Desc":"Takes 1 bonus action to cast.\nEach sleeping creature you choose within range awakens, and then each prone creature within range can stand up without expending any movement.\r","Tags":[]}

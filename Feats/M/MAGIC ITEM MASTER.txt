@@ -1,0 +1,1 @@
+{"Name": "Magic Item Master", "Desc": "You can attune up to six magic items at once.", "Tags": ["Artificer"]}wo", "Tags": [""]}

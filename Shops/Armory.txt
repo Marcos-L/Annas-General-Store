@@ -1,0 +1,34 @@
+Studded Leather
+Chain Shirt
+Scale Mail
+Breastplate
+Half Plate
+Ring Mail
+Chain Mail
+Splint Armor
+Plate Armor
+Shield
+Dagger
+Handaxe
+Javelin
+Light Hammer
+Mace
+Sickle
+Spear
+Battleaxe
+Flail
+Glaive
+Greataxe
+Greatsword
+Halberd
+Lance
+Longsword
+Maul
+Morningstar
+Pike
+Rapier
+Scimitar
+Shortsword
+Trident
+War Pick
+Warhammer

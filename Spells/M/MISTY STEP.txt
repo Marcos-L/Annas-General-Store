@@ -1,0 +1,1 @@
+{"Name":"Misty Step\r","Lv":"Level 2 (V)","Range":"Range=Self.\r","Mat":"Nothing","Desc":"Takes 1 bonus action to cast.\nBriefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.\r","Tags":[]}

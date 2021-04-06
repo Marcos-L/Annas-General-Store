@@ -1,0 +1,1 @@
+{"Name": "Empowered Psionics", "Desc": "When you deal psychic or force damage with a wizard spell, you can add your intelligence modifier to the damage against one of the spell's targets.", "Tags": ["Wizard"]}

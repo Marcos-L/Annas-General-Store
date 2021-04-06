@@ -1,0 +1,1 @@
+{"Name": "Arcane Acolyte", "Desc": "You gain your chosen domain\u2019s 1st-level benefits. however, you do not gain any weapon or armor proficiencies from the domain.", "Tags": ["Wizard"]}

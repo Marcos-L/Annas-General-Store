@@ -1,0 +1,1 @@
+{"Name": "Elusive", "Desc": "You are so evasive that attackers rarely gain the upper hand against you. no attack roll has advantage against you while you aren't incapacitated.", "Tags": ["Rogue"]}

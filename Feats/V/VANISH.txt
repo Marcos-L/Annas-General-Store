@@ -1,0 +1,1 @@
+{"Name": "Vanish", "Desc": "You can use the hide action as a bonus action on your turn. also, you can't be tracked by nonmagical means, unless you choose to leave a trail.", "Tags": ["Ranger"]}

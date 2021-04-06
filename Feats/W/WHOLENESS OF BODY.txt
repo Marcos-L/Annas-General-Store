@@ -1,0 +1,1 @@
+{"Name": "Wholeness Of Body", "Desc": "You gain the ability to heal yourself. as an action, you can regain hit points equal to three times your monk level. you must finish a long rest before you can use this feature again.", "Tags": ["Monk"]}

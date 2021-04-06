@@ -1,0 +1,1 @@
+{"Name": "Song Of Defense", "Desc": "You can direct your magic to absorb damage while your bladesong is active. when you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell slot's level.", "Tags": ["Wizard"]}

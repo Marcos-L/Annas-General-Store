@@ -1,0 +1,1 @@
+{"Name": "Eye For Weakness", "Desc": "You learn to exploit a creature\u2019s weaknesses by carefully studying its tactics and movement. while your insightful fighting feature applies to a creature, your sneak attack damage against that creature increases by 3d6.", "Tags": ["Rogue"]}

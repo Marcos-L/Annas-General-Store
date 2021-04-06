@@ -1,0 +1,1 @@
+{"Name": "Guardian Spirit", "Desc": "Your spirit totem safeguards the beasts and fey that you call forth with your magic. when a beast or fey that you summoned or created with a spell ends its turn in your spirit totem aura, that creature regains a number of hit points equal to half your druid level.", "Tags": ["Druid"]}

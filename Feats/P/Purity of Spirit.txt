@@ -1,0 +1,1 @@
+{"Name": "Purity Of Spirit", "Desc": "You are always under the effects of a protection from evil and good spell.", "Tags": ["Paladin"]}

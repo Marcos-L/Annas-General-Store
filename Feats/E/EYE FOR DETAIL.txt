@@ -1,0 +1,1 @@
+{"Name": "Eye For Detail", "Desc": "You can use a bonus action to make a wisdom (perception) check to spot a hidden creature or object or to make an intelligence (investigation) check to uncover or decipher clues.", "Tags": ["Rogue"]}

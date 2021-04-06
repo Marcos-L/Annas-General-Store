@@ -1,0 +1,1 @@
+{"Name": "Moderately Armored", "Desc": "You have trained to master the use of medium armor and shields, gaining the following benefits:\n\nincrease your strength or dexterity score by 1, to a maximum of 20.\nyou gain proficiency with medium armor and shields.", "Tags": [""]}

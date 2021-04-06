@@ -1,0 +1,1 @@
+{"Name": "Aura Of Hate", "Desc": "You, as well any fiends and undead within 10 feet of you, gain a bonus to melee weapon damage rolls equal to your charisma modifier (minimum of +1). a creature can benefit from this feature from only one paladin at a time.", "Tags": ["Paladin"]}

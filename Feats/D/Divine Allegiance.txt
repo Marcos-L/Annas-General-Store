@@ -1,0 +1,1 @@
+{"Name": "Divine Allegiance", "Desc": "When a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. instead, you take the damage. this damage to you can't be reduced or prevented in any way.", "Tags": ["Paladin"]}

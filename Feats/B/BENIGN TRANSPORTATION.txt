@@ -1,0 +1,1 @@
+{"Name": "Bening Transportation", "Desc": "You can use your action to teleport up to 30 feet to an unoccupied space that you can see. alternatively, you can choose a space within range that is occupied by a small or medium creature. if that creature is willing, you both teleport, swapping places.", "Tags": ["Wizard", "Conjuration"]}

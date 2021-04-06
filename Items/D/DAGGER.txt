@@ -1,0 +1,1 @@
+{"Name":"Dagger\r","Price":"2gp","Desc":"Deals 1d4 damage\nProficiency with this weapon allows you to add your proficiency bonus to the attack roll for any attack you make with it. You can use either STR or DEX, or throw it if need be.","Tags":["Finesse"]}

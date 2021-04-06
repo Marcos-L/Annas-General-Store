@@ -1,0 +1,1 @@
+{"Name":"Studded Leather Armor\r","Price":"45gp","Desc":"Armor: AC 12+ DEX\nMade from tough but flexible leather, studded leather is reinforced with close-set rivets orspikes.","Tags":[]}

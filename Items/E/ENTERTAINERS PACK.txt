@@ -1,0 +1,1 @@
+{"Name":"Entertainer's Pack\r","Price":"40gp","Desc":"This kit includes:\n1 backpack , 1 Bedroll , 2 Costumes , 5 Candles , 5 days of Food , 1 Waterskin, 1 Disguise Kit.","Tags":["Pack"]}

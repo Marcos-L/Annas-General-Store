@@ -1,0 +1,1 @@
+{"Name":"Water Breathing\r","Lv":"Level 2 (VSM)","Range":"Range=30 feet.","Mat":"a short reed or piece of straw","Desc":"Takes 1 action to cast and lasts for 24 hours\nThis spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.\r","Tags":[]}

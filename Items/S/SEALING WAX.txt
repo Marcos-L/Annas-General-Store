@@ -1,0 +1,1 @@
+{"Name":"Sealing Wax\r","Price":"5sp","Desc":"This wax will make sure your letters arrive safely","Tags":[]}

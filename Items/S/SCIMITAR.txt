@@ -1,0 +1,1 @@
+{"Name":"Scimitar\r","Price":"25gp","Desc":"Deals 1d6 damage\nProficiency with this weapon allows you to add your proficiency bonus to the attack roll for any attack you make with it. You can use either STR or DEX. You can wield one in each hand!","Tags":["Finesse"]}

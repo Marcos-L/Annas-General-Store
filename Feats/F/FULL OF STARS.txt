@@ -1,0 +1,1 @@
+{"Name": "Full Of Stars", "Desc": "While in your starry form, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.", "Tags": ["Druid"]}

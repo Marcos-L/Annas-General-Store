@@ -1,0 +1,1 @@
+{"Name":"Signet Ring\r","Price":"5gp","Desc":"Each signet ring has a distinctive design carved into it. When you press this ring into warm sealing wax, you leave an identifying mark.","Tags":[]}

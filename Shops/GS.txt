@@ -1,0 +1,44 @@
+Abacus
+Barrel
+Blanket
+Bottle
+Bucket
+Candle
+Chest
+Common Clothes
+Fine Clothes
+Flask
+Tankard
+Hammer
+Ink
+Ink Pen
+Jug
+Pitcher
+Ladder
+Hooded Lantern
+Lamp
+Lock
+Mess Kit
+Steel Mirror
+Paper
+Parchment
+Miner's Pick
+Pot
+Pouch
+Rope
+Sack
+Merchant's Scale
+Shovel
+Signet Ring
+Soap
+Vial
+Carpenter's Tools
+Cobbler's Tools
+Cook's Utensils
+Glassblower's Tools
+Leatherworker's Tools
+Mason's Tools
+Potter's Tools
+Smith's Tools
+Weaver's Tools
+Woodcarver's Tools

@@ -1,0 +1,1 @@
+{"Name": "Heavily Armored", "Desc": "You have trained to master the use of heavy armor, gaining the following benefits:\n\nincrease your strength score by 1, to a maximum of 20.\nyou gain proficiency with heavy armor.", "Tags": [""]}

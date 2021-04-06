@@ -1,0 +1,1 @@
+{"Name": "Slippery Mind", "Desc": "You have acquired greater mental strength. you gain proficiency in wisdom saving throws.", "Tags": ["Rogue"]}

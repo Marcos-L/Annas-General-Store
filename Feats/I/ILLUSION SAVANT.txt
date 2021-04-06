@@ -1,0 +1,1 @@
+{"Name": "Illusion Savant", "Desc": "The gold and time you must spend to copy a illusion spell into your spellbook is halved.", "Tags": ["Wizard", "Illusion"]}

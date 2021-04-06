@@ -1,0 +1,1 @@
+{"Name": "Potent Cantrip", "Desc": "Your damaging cantrips affect even creatures that avoid the brunt of the effect. when a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.", "Tags": ["Wizard", "Evocation"]}

@@ -1,0 +1,1 @@
+{"Name": "Death Strike", "Desc": "You become a master of instant death. when you attack and hit a creature that is surprised, it must make a constitution saving throw (dc 8 + your dexterity modifier + your proficiency bonus). on a failed save, double the damage of your attack against the creature.", "Tags": ["Rogue"]}

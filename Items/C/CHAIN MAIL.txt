@@ -1,0 +1,1 @@
+{"Name":"Chain Mail\r","Price":"75gp","Desc":"Armor: AC 16\nDisadvantage: Stealth\nRequires: STR 13\nMade of interlocking metal rings, Chain Mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.","Tags":[]}

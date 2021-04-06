@@ -1,0 +1,1 @@
+{"Name": "Beast Spells", "Desc": "You can cast many of your druid spells in any shape you assume using wild shape. you can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.", "Tags": ["Druid"]}

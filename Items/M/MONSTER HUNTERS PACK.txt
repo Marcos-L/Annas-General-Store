@@ -1,0 +1,1 @@
+{"Name":"Monster Hunter's Pack\r","Price":"33gp","Desc":"This pack includes:\n1 Chest , 1 Crowbar , 1 Hammer , 3 Wooden Stakes , 1 Holy Symbol , 1 Flask of Holy Water , 1 Set of Manacles , 1 Steel Mirror , 1 Flask of Oil , 1 Tinderbox , 3 Torches.","Tags":["Pack"]}

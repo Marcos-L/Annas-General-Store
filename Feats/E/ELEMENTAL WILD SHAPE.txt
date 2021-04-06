@@ -1,0 +1,1 @@
+{"Name": "Elemental Wild Shape", "Desc": "You can expend two uses of wild shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.", "Tags": ["Druid"]}

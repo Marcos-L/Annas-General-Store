@@ -1,0 +1,1 @@
+{"Name": "Thiefs Reflexes", "Desc": "You have become adept at laying ambushes and quickly escaping danger. you can take two turns during the first round of any combat. you take your first turn at your normal initiative and your second turn at your initiative minus 10. you can't use this feature when you are surprised.", "Tags": ["Rogue"]}

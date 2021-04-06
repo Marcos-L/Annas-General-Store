@@ -1,0 +1,1 @@
+{"Name":"Lance\r","Price":"10gp","Desc":"Deals 1d12 damage\nProficiency with this weapon allows you to add your proficiency bonus to the attack roll for any attack you make with it. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.","Tags":[]}

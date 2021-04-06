@@ -1,0 +1,1 @@
+{"Name":"Fine Clothes\r","Price":"15gp","Desc":"Just the finest clothes for my finest customers","Tags":[]}

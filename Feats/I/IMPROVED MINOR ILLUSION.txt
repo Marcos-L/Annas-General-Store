@@ -1,0 +1,1 @@
+{"Name": "Improved Minor Illusion", "Desc": "You learn the minor illusion cantrip. if you already know this cantrip, you learn a different wizard cantrip of your choice. the cantrip doesn't count against your number of cantrips known.\n\nwhen you cast minor illusion, you can create both a sound and an image with a single casting of the spell.", "Tags": ["Wizard", "Illusion"]}

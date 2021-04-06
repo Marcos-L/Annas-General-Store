@@ -1,0 +1,1 @@
+{"Name":"Club\r","Price":"1sp","Desc":"Deals 1d4 damage\nProficiency with this weapon allows you to add your proficiency bonus to the attack roll for any attack you make with it. Since it's light you can wield one in each hand!","Tags":["Light Weapon"]}

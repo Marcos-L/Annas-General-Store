@@ -1,0 +1,1 @@
+{"Name": "Cleansing Touch", "Desc": "You can use your action to end one spell on yourself or on one willing creature that you touch.\n\nyou can use this feature a number of times equal to your charisma modifier (a minimum of once). you regain expended uses when you finish a long rest.", "Tags": ["Paladin"]}

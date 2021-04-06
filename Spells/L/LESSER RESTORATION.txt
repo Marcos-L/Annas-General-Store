@@ -1,0 +1,1 @@
+{"Name":"Lesser Restoration\r","Lv":"Level 2 (VS)","Range":"Range=Touch.\r","Mat":"Nothing","Desc":"Takes 1 action to cast.\nYou touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.\r","Tags":[]}

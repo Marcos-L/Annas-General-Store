@@ -1,0 +1,1 @@
+{"Name": "Expert Forgery", "Desc": "You can duplicate other creatures' handwriting and craftwork. you have advantage on all checks made to produce forgeries or duplicates of existing objects.", "Tags": ["Kenku"]}

@@ -1,0 +1,1 @@
+{"Name":"Blade Ward\r","Lv":"Cantrip (VS)","Range":"Range=Self.\r","Mat":"Nothing","Desc":"Takes 1 Action to cast and lasts for 1 Round\nYou extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.\r","Tags":["Concentration"]}

@@ -1,0 +1,1 @@
+{"Name": "Drunkards Luck", "Desc": "You always seem to get a lucky bounce at the right moment. when you make an ability check, an attack roll, or a saving throw and have disadvantage, you can spend 2 ki points to cancel the disadvantage for that roll.", "Tags": ["Monk"]}

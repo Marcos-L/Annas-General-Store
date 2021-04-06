@@ -1,0 +1,1 @@
+{"Name": "Medium Armor Master", "Desc": "You have practiced moving in medium armor to gain the following benefits:\n\nwearing medium armor doesn't impose disadvantage on your dexterity (stealth) checks.\nwhen you wear medium armor, you can add 3, rather than 2, to your ac if you have a dexterity of 16 or higher.", "Tags": [""]}

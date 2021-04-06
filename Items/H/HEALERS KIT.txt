@@ -1,0 +1,1 @@
+{"Name":"Healer's Kit\r","Price":"5gp","Desc":"This kit is a leather pouch containing bandages, salves, andsplints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 Hit Points, without needing to make a Wisdom (Medicine) check.","Tags":["Kit"]}

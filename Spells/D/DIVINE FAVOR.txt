@@ -1,0 +1,1 @@
+{"Name":"Divine Favor\r","Lv":"Level 1 (CVS)","Range":"Range=Self.\r","Mat":"Nothing","Desc":"Takes 1 bonus action to cast and lasts for 1 minute\nYour prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.\r","Tags":["Concentration"]}

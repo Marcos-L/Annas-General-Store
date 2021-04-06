@@ -1,0 +1,1 @@
+{"Name": "Healing Technique", "Desc": "Your skill in manipulating your ki to heal increases. when you restore hit points to a creature using your hands of healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.", "Tags": ["Monk"]}

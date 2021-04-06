@@ -1,0 +1,1 @@
+{"Name":"Poisoner's Kit\r","Price":"50gp","Desc":"A poisoner's kit includes the vials, chemicals, and other Equipment necessary for the Creation of Poisons. Proficiency with this kit lets you add your Proficiency Bonus to any Ability Checks you make to craft or use Poisons.","Tags":["Kit"]}

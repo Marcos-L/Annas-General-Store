@@ -1,0 +1,1 @@
+{"Name": "Resilient", "Desc": "Choose one ability score. you gain the following benefits:\n\nincrease the chosen ability score by 1, to a maximum of 20.\nyou gain proficiency in saving throws using the chosen ability.", "Tags": [""]}

@@ -1,0 +1,1 @@
+{"Name": "Scornful Rebuke", "Desc": "Those who dare to strike you are psychically punished for their audacity. whenever a creature hits you with an attack, that creature takes psychic damage equal to your charisma modifier (minimum of 1) if you\u2019re not incapacitated.", "Tags": ["Paladin"]}

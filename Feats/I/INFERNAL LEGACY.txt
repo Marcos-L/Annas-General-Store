@@ -1,0 +1,1 @@
+{"Name": "Infernal Legacy", "Desc": "You know the thaumaturgy cantrip. once you reach 3rd level, you can cast the hellish rebuke spell once as a 2nd-level spell. once you reach 5th level, you can also cast the darkness spell once. you must finish a long rest to cast these spells again with this trait. charisma is your spellcasting ability for these spells.", "Tags": ["Tiefling"]}

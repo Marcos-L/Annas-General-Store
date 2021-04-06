@@ -1,0 +1,1 @@
+{"Name": "Silent Speech", "Desc": "You can speak telepathically to any creature within 30 feet of you. the creature understands you only if the two of you share a language. you can speak telepathically in this way to one creature at a time.", "Tags": ["Halfling"]}

@@ -1,0 +1,1 @@
+{"Name":"Ball Bearings\r","Price":"1gp","Desc":"1000 per bag.\nAs an action, you canspill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at halfspeed doesn't need to make the save.","Tags":[]}

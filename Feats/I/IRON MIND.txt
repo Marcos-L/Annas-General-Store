@@ -1,0 +1,1 @@
+{"Name": "Iron Mind", "Desc": "You have honed your ability to resist the mind-altering powers of your prey. you gain proficiency in wisdom saving throws. if you already have this proficiency, you instead gain proficiency in intelligence or charisma saving throws (your choice).", "Tags": ["Ranger"]}

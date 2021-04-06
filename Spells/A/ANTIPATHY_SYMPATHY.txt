@@ -1,0 +1,1 @@
+{"Name":"Antipathy_sympathy\r","Lv":"Level 8(VSM)","Range":"Range=60ft.","Mat":"either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect","Desc":"Takes 1 Hour to cast and lasts for 10 Days\nThis spell is a tad too big, you might want to read about it from here: https://www.dndbeyond.com/spells/antipathy-sympathy\r","Tags":[]}

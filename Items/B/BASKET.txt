@@ -1,0 +1,1 @@
+{"Name":"Basket\r","Price":"4sp","Desc":"A basket holds 2 cubic feet or 18kg of gear.","Tags":[]}

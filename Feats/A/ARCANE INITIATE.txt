@@ -1,0 +1,1 @@
+{"Name": "Arcane Initiate", "Desc": "You gain proficiency in the arcana skill, and you gain two cantrips of your choice from the wizard spell list. for you, these cantrips count as cleric cantrips.", "Tags": ["Cleric"]}

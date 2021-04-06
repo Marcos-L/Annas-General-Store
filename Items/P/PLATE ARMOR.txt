@@ -1,0 +1,1 @@
+{"Name":"Plate\r","Price":"1500gp","Desc":"Armor: AC 18\nDisadvantage: Stealth\nRequires: STR 15\nPlate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body","Tags":[]}

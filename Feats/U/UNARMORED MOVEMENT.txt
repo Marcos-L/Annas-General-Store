@@ -1,0 +1,1 @@
+{"Name": "Unarmored Movement", "Desc": "Your speed increases by 10 feet while you are not wearing armor or wielding a shield. this bonus increases when you reach certain monk levels, as shown in the monk table.\n\nat 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.", "Tags": ["Monk"]}

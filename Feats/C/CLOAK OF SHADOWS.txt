@@ -1,0 +1,1 @@
+{"Name": "Cloak Of Shadows", "Desc": "When you are in an area of dim light or darkness, you can use your action to become invisible. you remain invisible until you make an attack, cast a spell, or are in an area of bright light.", "Tags": ["Monk"]}

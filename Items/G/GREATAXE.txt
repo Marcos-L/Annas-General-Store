@@ -1,0 +1,1 @@
+{"Name":"Greataxe\r","Price":"30gp","Desc":"Deals 1d12 damage\nProficiency with this weapon allows you to add your proficiency bonus to the attack roll for any attack you make with it. This weapon is quite heavy.","Tags":[]}

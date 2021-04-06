@@ -1,0 +1,1 @@
+{"Name":"Padded Armor\r","Price":"5gp","Desc":"Armor: AC 11+ DEX\nDisadvantage: Stealth\nPadded Armor consists of quilted layers of cloth and batting.","Tags":[]}

@@ -1,0 +1,1 @@
+{"Name":"Staff\r","Price":"5gp","Desc":"An arcane focus.A Special item designed to channel the power of arcane Spells. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting focus, using it in place of any material component which does not list a cost.","Tags":[]}

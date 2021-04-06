@@ -1,0 +1,1 @@
+{"Name":"2-person Tent\r","Price":"2gp","Desc":"A simple and portable canvas shelter, in a tent sleeps two","Tags":[]}

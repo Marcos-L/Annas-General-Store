@@ -1,0 +1,1 @@
+{"Name":"Scholar's Pack","Price":"40gp","Desc":"This pack includes:\n1 backpack , 1 Book of Lore , 1 Bottle of Ink , 1 Pen , 10 sheets of parchment , 1 Little bag of Sand , 1 Small Knife.","Tags":["Pack"]}

@@ -1,0 +1,1 @@
+{"Name": "Survivalist", "Desc": "You gain proficiency in the nature and survival skills if you don't already have it. your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.", "Tags": ["Rogue"]}

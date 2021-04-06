@@ -1,0 +1,1 @@
+{"Name": "Extra Attack", "Desc": "You can attack twice, instead of once, whenever you take the attack action on your turn.", "Tags": [""]}

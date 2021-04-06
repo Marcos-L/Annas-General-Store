@@ -1,0 +1,1 @@
+{"Name": "Magic Item Adept", "Desc": "You achieve a profound understanding of how to use and make magic items:\n\nyou can attune to up to four magic items at once.\nif you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.", "Tags": ["Artificer"]}

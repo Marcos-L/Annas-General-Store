@@ -1,0 +1,1 @@
+{"Name": "Steady Eye", "Desc": "You gain advantage on any wisdom (perception) or intelligence (investigation) check if you move no more than half your speed on the same turn.", "Tags": ["Rogue"]}

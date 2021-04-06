@@ -1,0 +1,1 @@
+{"Name": "Eternal Mountain Defense", "Desc": "You can spend 5 ki points to cast stoneskin, targeting yourself.", "Tags": ["Monk"]}

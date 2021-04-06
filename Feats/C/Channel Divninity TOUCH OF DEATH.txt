@@ -1,0 +1,1 @@
+{"Name": "Touch Of Death", "Desc": "You can use channel divinity to destroy another creature's life force by touch. when you hit a creature with a melee attack, you can use channel divinity to deal extra necrotic damage to the target. the damage equals 5 + twice your cleric level.", "Tags": ["Cleric"]}

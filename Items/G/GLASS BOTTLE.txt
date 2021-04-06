@@ -1,0 +1,1 @@
+{"Name":"Glass Bottle\r","Price":"2gp","Desc":"This bottle can hold 710mL of liquid","Tags":[]}

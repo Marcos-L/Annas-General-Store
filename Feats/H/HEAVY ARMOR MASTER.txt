@@ -1,0 +1,1 @@
+{"Name": "Heavy Armor Master", "Desc": "You can use your armor to deflect strikes that would kill others. you gain the following benefits:\n\nincrease your strength score by 1, to a maximum of 20.\nwhile you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.", "Tags": [""]}

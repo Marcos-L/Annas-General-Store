@@ -1,0 +1,1 @@
+{"Name":"Hammer\r","Price":"1gp","Desc":"Too small to be a good weapon, but useful nonetheless","Tags":[]}

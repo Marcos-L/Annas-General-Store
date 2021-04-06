@@ -1,0 +1,1 @@
+{"Name": "Sunlight Sensitivity", "Desc": "You have disadvantage on attack rolls and wisdom (perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.", "Tags": [""]}

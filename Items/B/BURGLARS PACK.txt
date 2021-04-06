@@ -1,0 +1,1 @@
+{"Name":"Burglar's Pack\r","Price":"16gp","Desc":"This kit includes:\n1 backpack , 10ft of String , 1 Bell , 5 Candles , 1 Hammer , 10 Pitons(Nails) , 1 Hooded Lantern, 2 Flasks of Oil , 5 Days of Food , 1 Tinderbox , 1 Waterskin , 50ft of Rope.","Tags":["Pack"]}

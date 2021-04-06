@@ -1,0 +1,1 @@
+{"Name": "Master Duelist", "Desc": "Your mastery of the blade lets you turn failure into success in combat. if you miss with an attack roll, you can roll it again with advantage. once you do so, you can't use this feature again until you finish a short or long rest.", "Tags": ["Rogue"]}

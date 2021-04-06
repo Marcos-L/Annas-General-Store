@@ -1,0 +1,1 @@
+{"Name": "Tokens Of Past Lives", "Desc": "You remember talents you had in your previous life. when you finish a long rest, you gain one skill or tool proficiency of your choice. you can replace this proficiency with another when you finish a long rest.", "Tags": ["Rogue"]}

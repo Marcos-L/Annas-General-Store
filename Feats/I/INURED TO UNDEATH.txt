@@ -1,0 +1,1 @@
+{"Name": "Inured To Undeath", "Desc": "You have resistance to necrotic damage, and your hit point maximum can't be reduced. you have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.", "Tags": ["Wizard", "Necromancy"]}

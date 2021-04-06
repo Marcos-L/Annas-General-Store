@@ -1,0 +1,1 @@
+{"Name": "Battle Ready", "Desc": "Your combat training and your experiments with magic have paid off in two ways:\n\nyou gain proficiency with martial weapons.\nwhen you attack with a magic weapon, you can use your intelligence modifier, instead of strength or dexterity modifier, for the attack and damage rolls.", "Tags": ["Artificer"]}

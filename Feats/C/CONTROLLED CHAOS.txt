@@ -1,0 +1,1 @@
+{"Name": "Controlled Chaos", "Desc": "You gain a modicum of control over the surges of your wild magic. whenever you roll on the wild magic surge table, you can roll twice and use either number.", "Tags": ["Sorcerer"]}

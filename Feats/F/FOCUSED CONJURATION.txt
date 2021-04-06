@@ -1,0 +1,1 @@
+{"Name": "Focus Conjuration", "Desc": "While you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage.", "Tags": ["Wizard"]}

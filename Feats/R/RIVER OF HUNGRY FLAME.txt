@@ -1,0 +1,1 @@
+{"Name": "River Of Hungry Flame", "Desc": "You can spend 5 ki points to cast wall of fire.", "Tags": ["Monk"]}o", "Tags": [""]}

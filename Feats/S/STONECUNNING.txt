@@ -1,0 +1,1 @@
+{"Name": "Stonecunning", "Desc": "Whenever you make an intelligence (history) check related to the origin of stonework, you are considered proficient in the history skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.", "Tags": ["Dwarf"]}

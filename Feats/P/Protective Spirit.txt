@@ -1,0 +1,1 @@
+{"Name": "Protective Spirit", "Desc": "A holy presence mends your wounds in combat. you regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren\u2019t incapacitated.", "Tags": ["Paladin"]}

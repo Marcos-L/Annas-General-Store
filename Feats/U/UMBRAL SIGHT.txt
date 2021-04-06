@@ -1,0 +1,1 @@
+{"Name": "Umbral Sight", "Desc": "You gain darkvision out to a range of 60 feet. if you already have darkvision from your race, its range increases by 30 feet.\n\nyou are also adept at evading creatures that rely on darkvision. while in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.", "Tags": ["Ranger"]}

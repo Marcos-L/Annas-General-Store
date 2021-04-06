@@ -1,0 +1,1 @@
+{"Name": "Artificers Lore", "Desc": "Whenever you make an intelligence (history) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply.", "Tags": ["Gnome"]}

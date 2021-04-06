@@ -1,0 +1,1 @@
+{"Name":"Scale Mail\r","Price":"50gp","Desc":"Armor: AC 14+ DEX (MAX 2)\nDisadvantage: Stealth\nThis armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.","Tags":[]}

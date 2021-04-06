@@ -1,0 +1,1 @@
+{"Name": "Touch Of The Long Death", "Desc": "Your touch can channel the energy of death into a creature. as an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. the target must make a constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.", "Tags": ["Monk"]}

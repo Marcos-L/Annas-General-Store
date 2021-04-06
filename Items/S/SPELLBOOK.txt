@@ -1,0 +1,1 @@
+{"Name":"Spellbook\r","Price":"50gp","Desc":"Essential for wizards, aspellbook is a leather-bound tome with 100 blank vellum pages suitable for recordingspells. ","Tags":[]}

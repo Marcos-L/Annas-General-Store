@@ -1,0 +1,1 @@
+{"Name": "Hour Of Reaping", "Desc": "You gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. when you take this action, each creature within 30 feet of you that can see you must succeed on a wisdom saving throw or be frightened of you until the end of your next turn.", "Tags": ["Monk"]}

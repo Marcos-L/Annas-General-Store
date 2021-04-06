@@ -1,0 +1,1 @@
+{"Name": "Improved Divine Smite", "Desc": "You are so suffused with righteous might that all your melee weapon strikes carry divine power with them. whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.", "Tags": ["Paladin"]}

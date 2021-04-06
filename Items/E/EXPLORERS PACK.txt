@@ -1,0 +1,1 @@
+{"Name":"Explorer's Pack\r","Price":"10gp","Desc":"This kit includes:\n1 backpack , 1 Bedroll , 1 Mess Kit , 1 Tinderbox , 10 Torches , 10 days of Food , 1 Waterskin , 50ft of Rope.","Tags":["Pack"]}

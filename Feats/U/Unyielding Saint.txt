@@ -1,0 +1,1 @@
+{"Name": "Unyielding Saint", "Desc": "You have advantage on saving throws to avoid becoming paralyzed or stunned.", "Tags": ["Paladin"]}

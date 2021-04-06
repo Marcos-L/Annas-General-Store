@@ -1,0 +1,1 @@
+{"Name": "Stone Camouflage", "Desc": "You have advantage on dexterity (stealth) checks to hide in rocky terrain.", "Tags": ["Gnome"]}

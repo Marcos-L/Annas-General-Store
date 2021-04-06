@@ -1,0 +1,1 @@
+{"Name": "Paths Of The Dead", "Desc": "Your mastery of death allows you to tread the paths used by ghosts and other spirits. using this feature, you can cast etherealness. once the spell ends, you can\u2019t cast it with this feature again until you finish a short or long rest.", "Tags": ["Druid"]}

@@ -1,0 +1,1 @@
+{"Name": "Shadow Arts", "Desc": "You can use your ki to duplicate the effects of certain spells. as an action, you can spend 2 ki points to cast darkness, darkvision, pass without trace, or silence, without providing material components. additionally, you gain the minor illusion cantrip if you don't already know it.", "Tags": ["Monk"]}

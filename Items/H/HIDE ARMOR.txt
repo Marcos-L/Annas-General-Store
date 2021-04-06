@@ -1,0 +1,1 @@
+{"Name":"Hide Armor\r","Price":"10gp","Desc":"Armor: AC 12+ DEX (MAX 2)\nThis crude armor consists of thick furs and pelts. It is commonly worn by Barbarian tribes, evil Humanoids, and other folk who lack access to the tools and materials needed to create better armor.","Tags":[]}

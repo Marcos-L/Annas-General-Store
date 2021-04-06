@@ -1,0 +1,1 @@
+{"Name": "Weapon Master", "Desc": "You have practiced extensively with a variety of weapons, gaining the following benefits:\n\nincrease your strength or dexterity score by 1, to a maximum of 20.\nyou gain proficiency with four weapons of your choice. each one must be a simple or a martial weapon.", "Tags": [""]}

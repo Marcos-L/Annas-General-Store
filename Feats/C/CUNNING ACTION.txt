@@ -1,0 +1,1 @@
+{"Name": "Cunning Action", "Desc": "Your quick thinking and agility allow you to move and act quickly. you can take a bonus action on each of your turns in combat. this action can be used only to take the dash, disengage, or hide action.", "Tags": ["Rogue"]}

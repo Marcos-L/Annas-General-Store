@@ -1,0 +1,1 @@
+{"Name": "Eye For Deceit", "Desc": "You develop a keen ear for picking out lies. whenever you make a wisdom (insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.", "Tags": ["Rogue"]}

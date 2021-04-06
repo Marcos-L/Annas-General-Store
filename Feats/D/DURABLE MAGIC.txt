@@ -1,0 +1,1 @@
+{"Name": "Durable Magic", "Desc": "The magic you channel helps ward off harm. while you maintain concentration on a spell, you have a +2 bonus to ac and all saving throws.", "Tags": ["Wizard"]}

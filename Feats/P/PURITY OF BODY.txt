@@ -1,0 +1,1 @@
+{"Name": "Purity Of Body", "Desc": "Your mastery of the ki flowing through you makes you immune to disease and poison.", "Tags": ["Monk"]}

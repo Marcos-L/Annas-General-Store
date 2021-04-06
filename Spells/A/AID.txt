@@ -1,0 +1,1 @@
+{"Name":"Aid\r","Lv":"Level 2 (VSM)","Range":"Range=30ft.","Mat":"a strip of white cloth","Desc":"Takes 1 action to cast and lasts for 8h\nYour spell bolsters your allies with toughness and resolve.\nChoose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.\r","Tags":[]}

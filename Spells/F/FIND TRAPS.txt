@@ -1,0 +1,1 @@
+{"Name":"Find Traps\r","Lv":"Level 2 (VS)","Range":"Range=120 feet.\r","Mat":"Nothing","Desc":"Takes 1 action to cast.\nYou sense the presence of any trap within range that is within line of sight.\nThis spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.\r","Tags":[]}

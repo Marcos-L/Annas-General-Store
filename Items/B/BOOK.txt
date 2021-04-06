@@ -1,0 +1,1 @@
+{"Name":"Book\r","Price":"25gp","Desc":"A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on Gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of Spells is a Spellbook.","Tags":[]}

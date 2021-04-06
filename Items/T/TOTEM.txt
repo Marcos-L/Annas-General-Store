@@ -1,0 +1,1 @@
+{"Name":"Totem\r","Price":"1gp","Desc":"A druid can use such a Druidic focus as a Spellcasting focus, using it in place of any material component that does not have a cost.","Tags":[]}

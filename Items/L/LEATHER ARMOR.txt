@@ -1,0 +1,1 @@
+{"Name":"Leather Armor\r","Price":"10gp","Desc":"Armor: AC 11+ DEX\nThe Breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials","Tags":[]}

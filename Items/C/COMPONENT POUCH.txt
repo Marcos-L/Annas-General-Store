@@ -1,0 +1,1 @@
+{"Name":"Component Pouch\r","Price":"25gp","Desc":"A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material Components and other Special Items you need to cast your Spells, except for those Components that have aspecific cost (as indicated in aspell's description).","Tags":[]}

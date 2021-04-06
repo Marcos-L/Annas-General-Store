@@ -1,0 +1,1 @@
+{"Name":"Protection From Energy\r","Lv":"Level 2 (CVS)","Range":"Range=Touch.\r","Mat":"Nothing","Desc":"Takes 1 action to cast and lasts for 1 hour\nFor the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.\r","Tags":["Concentration"]}

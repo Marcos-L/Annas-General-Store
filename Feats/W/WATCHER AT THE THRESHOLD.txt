@@ -1,0 +1,1 @@
+{"Name": "Watcher At The Threshold", "Desc": "You gain resistance to necrotic and radiant damage. in addition, while you aren\u2019t incapacitated, any ally within 30 feet of you has advantage on death saving throws.", "Tags": ["Druid"]}

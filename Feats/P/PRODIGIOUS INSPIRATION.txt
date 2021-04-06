@@ -1,0 +1,1 @@
+{"Name": "Prodigious Inspiration", "Desc": "You have attained a greater mastery of spell preparation. as a bonus action, you can replace one spell you have prepared with another spell from your spellbook. you can\u2019t use this ability again until you finish a short or long rest.", "Tags": ["Wizard"]}

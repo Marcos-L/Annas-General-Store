@@ -1,0 +1,1 @@
+{"Name": "Durable", "Desc": "Hardy and resilient, you gain the following benefits:\n\nincrease your constitution score by 1, to a maximum of 20.\nwhen you roll a hit die to regain hit points, the minimum number of hit points you regain from the roll equals twice your constitution modifier (minimum of 2).", "Tags": [""]}

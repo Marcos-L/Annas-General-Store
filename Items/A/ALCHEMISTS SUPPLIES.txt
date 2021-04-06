@@ -1,0 +1,1 @@
+{"Name":"Alchemist's Supplies\r","Price":"50gp","Desc":"These Special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your Proficiency Bonus to any Ability Checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.","Tags":[]}

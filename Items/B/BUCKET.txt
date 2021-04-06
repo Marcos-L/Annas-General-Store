@@ -1,0 +1,1 @@
+{"Name":"Bucket\r","Price":"5cp","Desc":"This bucket can fit 3 gallons of liquid","Tags":[]}

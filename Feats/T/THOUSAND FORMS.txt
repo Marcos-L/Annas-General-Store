@@ -1,0 +1,1 @@
+{"Name": "Thousand Forms", "Desc": "You have learned to use magic to alter your physical form in more subtle ways. you can cast the alter self spell at will.", "Tags": ["Druid"]}

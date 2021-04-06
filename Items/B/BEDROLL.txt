@@ -1,0 +1,1 @@
+{"Name":"Bedroll\r","Price":"1gp","Desc":"Perfect for camping!","Tags":[]}

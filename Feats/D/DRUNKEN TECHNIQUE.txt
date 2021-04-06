@@ -1,0 +1,1 @@
+{"Name": "Drunken Technique", "Desc": "You learn how to twist and turn quickly as part of your flurry of blows. whenever you use flurry of blows, you gain the benefit of the disengage action, and your walking speed increases by 10 feet until the end of the current turn.", "Tags": ["Monk"]}

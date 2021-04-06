@@ -1,0 +1,1 @@
+{"Name":"Dungeoneer's Pack\r","Price":"12gp","Desc":"This kit includes:\n1 backpack , 1 Crowbar , 1 Hammer , 10 Pitons(Nails) , 10 Torches , 10 days of Food , 1 Tinderbox , 1 Waterskin , 50ft of Rope.","Tags":["Pack"]}

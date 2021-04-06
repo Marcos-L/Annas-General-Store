@@ -1,0 +1,1 @@
+{"Name": "Duergar Resilience", "Desc": "You have advantage on saving throws against illusions and against being charmed or paralyzed.", "Tags": ["Dwarf"]}

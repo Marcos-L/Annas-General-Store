@@ -1,0 +1,1 @@
+{"Name": "Archdruid", "Desc": "You can use your wild shape an unlimited number of times.\n\nadditionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. you gain this benefit in both your normal shape and your beast shape from wild shape.", "Tags": ["Druid"]}

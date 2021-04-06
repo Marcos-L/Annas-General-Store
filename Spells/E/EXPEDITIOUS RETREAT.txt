@@ -1,0 +1,1 @@
+{"Name":"Expeditious Retreat\r","Lv":"Level 1 (CVS)","Range":"Range=Self.\r","Mat":"Nothing","Desc":"Takes 1 bonus action to cast and lasts for 10 minutes\nThis spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.\r","Tags":["Concentration"]}

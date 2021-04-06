@@ -1,0 +1,1 @@
+{"Name":"Antitoxin Vial\r","Price":"50gp","Desc":"A creature that drinks this vial of liquid gains advantage on Saving Throws against poison for 1 hour. It confers no benefit to Undead or Constructs.","Tags":[]}

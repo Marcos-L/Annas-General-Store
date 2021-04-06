@@ -1,0 +1,1 @@
+{"Name":"Hourglass\r","Price":"25gp","Desc":"You can use this one to measure up to 5 minutes","Tags":[]}

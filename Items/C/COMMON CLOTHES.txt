@@ -1,0 +1,1 @@
+{"Name":"Common Clothes\r","Price":"5sp","Desc":"Something to replace your old rags","Tags":[]}

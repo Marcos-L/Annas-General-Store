@@ -1,0 +1,1 @@
+{"Name": "Magic Item Savant", "Desc": "Your skill with magic items deepens more:\n\nyou can attune to up to five magic items at once.\nyou ignore all class, race, spell and level requirements on attuning to or using a magic item.", "Tags": ["Artificer"]}

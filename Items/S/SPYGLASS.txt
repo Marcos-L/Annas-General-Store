@@ -1,0 +1,1 @@
+{"Name":"Spyglass\r","Price":"1000gp","Desc":"Objects viewed through aspyglass are magnified to twice their size ","Tags":[]}

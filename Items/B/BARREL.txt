@@ -1,0 +1,1 @@
+{"Name":"Barrel\r","Price":"2gp","Desc":"A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.","Tags":[]}

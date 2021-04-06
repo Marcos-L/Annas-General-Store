@@ -1,0 +1,1 @@
+{"Name":"Rations\r","Price":"5sp","Desc":"Enough for 1 day. Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.","Tags":[]}

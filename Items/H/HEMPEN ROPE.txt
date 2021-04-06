@@ -1,0 +1,1 @@
+{"Name":"Hempen Rope\r","Price":"1gp","Desc":"50ft. Rope, whether made of hemp or silk, has 2 hitpoints and can be burst with a DC 17 Strength check","Tags":[]}

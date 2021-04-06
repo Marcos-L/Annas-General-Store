@@ -1,0 +1,1 @@
+{"Name": "Shadow Step", "Desc": "You gain the ability to step from one shadow into another. when you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. you then have advantage on the first melee attack you make before the end of the turn.", "Tags": ["Monk"]}

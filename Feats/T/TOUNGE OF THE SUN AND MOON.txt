@@ -1,0 +1,1 @@
+{"Name": "Tounge Of The Sun And Moon", "Desc": "You learn to touch the ki of other minds so that you understand all spoken languages. moreover, any creature that can understand a language can understand what you say.", "Tags": ["Monk"]}

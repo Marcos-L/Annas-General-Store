@@ -1,0 +1,1 @@
+{"Name": "Perfect Self", "Desc": "When you roll for initiative and have no ki points remaining, you regain 4 ki points.", "Tags": ["Monk"]}

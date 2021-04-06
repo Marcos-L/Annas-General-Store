@@ -1,0 +1,1 @@
+{"Name":"Chain Shirt\r","Price":"50gp","Desc":"Armor: AC 13+ DEX (MAX 2)\nMade of interlocking metal rings, a Chain Shirt is worn between layers of clothing or leather. This armor offers modest Protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.","Tags":[]}

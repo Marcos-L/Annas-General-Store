@@ -1,0 +1,1 @@
+{"Name": "Dwarven Resilience", "Desc": "You have advantage on saving throws against poison, and you have resistance against poison damage.", "Tags": ["Dwarf"]}

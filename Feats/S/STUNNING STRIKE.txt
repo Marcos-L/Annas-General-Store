@@ -1,0 +1,1 @@
+{"Name": "Stunning Strike", "Desc": "You can interfere with the flow of ki in an opponent's body. when you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. the target must succeed on a constitution saving throw or be stunned until the end of your next turn.", "Tags": ["Monk"]}

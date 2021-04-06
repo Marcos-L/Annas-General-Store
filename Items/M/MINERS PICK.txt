@@ -1,0 +1,1 @@
+{"Name":"Miner's Pick\r","Price":"2gp","Desc":"Perfect for breaking any rock in your way","Tags":[]}

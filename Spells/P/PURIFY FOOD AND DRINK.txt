@@ -1,0 +1,1 @@
+{"Name":"Purify Food And Drink\r","Lv":"Level 1 (VS)","Range":"Range=10 feet.\r","Mat":"Nothing","Desc":"Takes 1 action to cast.\nAll nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.\r","Tags":[]}

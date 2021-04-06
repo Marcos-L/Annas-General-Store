@@ -1,0 +1,1 @@
+{"Name": "Soul Knives", "Desc": "You can use your psionic energy to manifest blades that disrupt your foes\u2019 minds.\n\nyour unarmed strikes deal your choice of psychic, piercing, slashing, or bludgeoning damage each time you hit.\n\nin addition, you can use a bonus action to increase the reach of your unarmed strikes by 30 feet until the end of your turn.", "Tags": ["Monk"]}

@@ -1,0 +1,1 @@
+{"Name": "Unarmored Defense", "Desc": "While you are wearing no armor and not wielding a shield, your ac equals 10 + your dexterity modifier + your wisdom modifier.", "Tags": ["Monk", "Barbarian"]}

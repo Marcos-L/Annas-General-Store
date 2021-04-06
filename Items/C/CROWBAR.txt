@@ -1,0 +1,1 @@
+{"Name":"Crowbar\r","Price":"2gp","Desc":"Using a crowbar grants advantage to Strength Checks where the crowbar's leverage can be applied.","Tags":[]}

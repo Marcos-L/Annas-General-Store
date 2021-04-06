@@ -1,0 +1,1 @@
+{"Name": "Fighting Style", "Desc": "You adopt a particular style of fighting as your specialty. you can't take a fighting style option more than once, even if you later get to choose again.", "Tags": [""]}

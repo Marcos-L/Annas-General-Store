@@ -1,0 +1,1 @@
+{"Name": "Elegant Maneuver", "Desc": "You can use a bonus action on your turn to gain advantage on the next dexterity (acrobatics) or strength (athletics) check you make during the same turn.", "Tags": ["Rogue"]}

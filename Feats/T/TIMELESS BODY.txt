@@ -1,0 +1,1 @@
+{"Name": "Timeless Body", "Desc": "Your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. you can still die of old age, however. in addition, you no longer need food or water.", "Tags": ["Monk"]}

@@ -1,0 +1,1 @@
+{"Name": "Shadowy Dodge", "Desc": "You can dodge in unforeseen ways, with wisps of supernatural shadow around you. whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. you must use this feature before you know the outcome of the attack roll.", "Tags": ["Ranger"]}

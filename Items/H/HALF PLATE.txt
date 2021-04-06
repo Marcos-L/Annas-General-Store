@@ -1,0 +1,1 @@
+{"Name":"Half Plate\r","Price":"750gp","Desc":"Armor: AC 15+ DEX (MAX 2)\nDisadvantage: Stealth\nHalf Plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg Protection beyond simple greaves that are attached with leather straps.","Tags":[]}

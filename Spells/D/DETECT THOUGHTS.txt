@@ -1,0 +1,1 @@
+{"Name":"Detect Thoughts\r","Lv":"Level 2 (CVSM)","Range":"Range=Self.","Mat":"a copper piece","Desc":"Takes 1 action to cast and lasts for 1 minute\nI'm sorry, this spell is a tad too big, you might want to read about it from here: http://dnd5e.wikidot.com/spell:detect-thoughts\r","Tags":["Concentration"]}

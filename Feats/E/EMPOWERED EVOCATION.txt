@@ -1,0 +1,1 @@
+{"Name": "Empowered Evocation", "Desc": "You can add your intelligence modifier (minimum of +1) to the damage roll of any wizard evocation spell that you cast. the damage bonus applies to one damage roll of a spell, not multiple rolls.", "Tags": ["Wizard", "Evocation"]}

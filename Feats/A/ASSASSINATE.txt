@@ -1,0 +1,1 @@
+{"Name": "Assassinate", "Desc": "You are at your deadliest when you get the drop on your enemies. you have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. in addition, any hit you score against a creature that is surprised is a critical hit.", "Tags": ["Rogue"]}

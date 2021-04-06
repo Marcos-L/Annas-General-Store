@@ -1,0 +1,1 @@
+{"Name": "Fighting Style Druidic Warrior", "Desc": "You learn two cantrips of your choice from the druid spell list. they count as ranger spells for you, and wisdom is your spellcasting ability for them. whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.", "Tags": [""]}

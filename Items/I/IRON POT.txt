@@ -1,0 +1,1 @@
+{"Name":"Iron Pot\r","Price":"2gp","Desc":"You can use it for cooking or as a helmet if need be.","Tags":[]}

@@ -1,0 +1,1 @@
+{"Name":"Crossbow Bolt Case\r","Price":"1gp","Desc":"This wooden case can hold up to twenty Crossbow bolts.","Tags":[]}

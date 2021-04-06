@@ -1,0 +1,1 @@
+{"Name": "Fighting Style Blessed Warrior", "Desc": "You learn two cantrips of your choice from the cleric spell list. they count as paladin spells for you, and charisma is your spellcasting ability for them. whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.", "Tags": [""]}

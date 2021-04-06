@@ -1,0 +1,1 @@
+{"Name":"Splint\r","Price":"200gp","Desc":"mor: AC 17\nDisadvantage: Stealth\nRequires: STR 15\nThis armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible Chain Mail protects the joints.","Tags":[]}

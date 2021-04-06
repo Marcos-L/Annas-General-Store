@@ -1,0 +1,1 @@
+{"Name": "Enchantment Savant", "Desc": "The gold and time you must spend to copy a enchantment spell into your spellbook is halved.", "Tags": ["Wizard"]}

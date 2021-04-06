@@ -1,0 +1,1 @@
+{"Name":"Shield Of Faith\r","Lv":"Level 1 (CVSM)","Range":"Range=60 feet.","Mat":"a small parchment with a bit of holy text written on it","Desc":"Takes 1 bonus action to cast and lasts for 10 minutes\nA shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.\r","Tags":["Concentration"]}

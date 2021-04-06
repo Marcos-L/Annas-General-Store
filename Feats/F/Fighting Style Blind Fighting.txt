@@ -1,0 +1,1 @@
+{"Name": "Fighting Style Blind Fighting", "Desc": "You have blindsight with a range of 10 feet. within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.", "Tags": [""]}

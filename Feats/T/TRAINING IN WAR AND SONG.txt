@@ -1,0 +1,1 @@
+{"Name": "Training In War And Song", "Desc": "You gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.\n\nyou also gain proficiency in the performance skill if you don\u2019t already have it.", "Tags": ["Wizard"]}

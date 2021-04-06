@@ -1,0 +1,1 @@
+{"Name": "Divine Health", "Desc": "The divine magic flowing through you makes you immune to disease.", "Tags": ["Paladin"]}""]}

@@ -1,0 +1,1 @@
+{"Name": "Song Of Victory", "Desc": "You can add your intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your bladesong is active.", "Tags": ["Wizard"]}

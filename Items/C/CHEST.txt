@@ -1,0 +1,1 @@
+{"Name":"Chest\r","Price":"5gp","Desc":"A chest holds 12 cubic feet or 136kg of gear.","Tags":[]}

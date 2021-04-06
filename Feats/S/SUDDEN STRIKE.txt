@@ -1,0 +1,1 @@
+{"Name": "Sudden Strike", "Desc": "You can strike with deadly speed. if you take the attack action on your turn, you can make one additional attack as a bonus action. this attack can benefit from your sneak attack even if you have already used it this turn, but you can't use your sneak attack against the same target more than once in a turn.", "Tags": ["Rogue"]}

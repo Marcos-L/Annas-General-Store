@@ -1,0 +1,1 @@
+{"Name":"Glyph Of Warding\r","Lv":"Level 2 (VSM)","Range":"Range=Touch.","Mat":"incense and powdered diamond worth at least 200 gp, which the spell consumes","Desc":"Takes 1 hour to cast and lasts for Until dispelled or triggered\nI'm sorry, this spell is a tad too big, you might want to read about it from here: http://dnd5e.wikidot.com/spell:glyph-of-warding\r","Tags":[]}

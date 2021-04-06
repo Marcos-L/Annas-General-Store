@@ -1,0 +1,1 @@
+{"Name": "Mimicry", "Desc": "You can mimic sounds you have heard, including voices. a creature that hears the sounds you make can tell they are imitations with a successful wisdom (insight) check opposed by your charisma (deception) check.", "Tags": ["Kenku"]}

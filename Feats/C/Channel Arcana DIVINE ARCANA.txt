@@ -1,0 +1,1 @@
+{"Name": "Divine Arcana", "Desc": "As a bonus action, you speak a prayer to control the flow of magic around you. the next spell you cast gains a +2 bonus to any attack roll you make for it or to its saving throw dc, as appropriate.", "Tags": ["Wizard"]}

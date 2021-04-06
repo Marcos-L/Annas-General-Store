@@ -1,0 +1,1 @@
+{"Name":"Diplomat's Pack\r","Price":"39gp","Desc":"This pack includes:\n1 Chest , 2 Map/Scroll Cases , 1 set of Fine Clothes , 1 Bottle of Ink , 1 Pen , 1 Lamp , 2 Flasks of Oil , 5 Sheets of Paper , 1 Vial of Perfume , Sealing Wax , Soap.","Tags":["Pack"]}

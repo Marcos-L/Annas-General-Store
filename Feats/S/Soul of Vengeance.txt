@@ -1,0 +1,1 @@
+{"Name": "Soul Of Vengeance", "Desc": "The authority with which you speak your vow of enmity gives you greater power over your foe. when a creature under the effect of your vow of enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.", "Tags": ["Paladin"]}

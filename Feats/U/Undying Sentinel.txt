@@ -1,0 +1,1 @@
+{"Name": "Undying Sentinel", "Desc": "When you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. once you use this ability, you can't use it again until you finish a long rest.\n\nadditionally, you suffer none of the drawbacks of old age, and you can't be aged magically.", "Tags": ["Paladin"]}

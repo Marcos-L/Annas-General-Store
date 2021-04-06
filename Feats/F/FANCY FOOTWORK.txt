@@ -1,0 +1,1 @@
+{"Name": "Fancy Footwork", "Desc": "You learn how to land a strike and then slip away without reprisal. during your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.", "Tags": ["Rogue"]}

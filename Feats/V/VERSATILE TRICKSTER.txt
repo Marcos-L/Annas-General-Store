@@ -1,0 +1,1 @@
+{"Name": "Versatile Trickster", "Desc": "You gain the ability to distract targets with your mage hand. as a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. doing so gives you advantage on attack rolls against that creature until the end of the turn.", "Tags": ["Rogue"]}

@@ -1,0 +1,1 @@
+{"Name": "Projected Ward", "Desc": "When a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your arcane ward to absorb that damage. if this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.", "Tags": ["Wizard"]}

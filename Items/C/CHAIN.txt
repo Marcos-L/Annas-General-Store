@@ -1,0 +1,1 @@
+{"Name":"Chain\r","Price":"gp","Desc":"10ft of chain\nA chain has 10 Hit Points. It can be burst with a successful DC 20 Strength check.","Tags":[]}

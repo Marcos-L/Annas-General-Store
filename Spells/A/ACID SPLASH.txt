@@ -1,0 +1,1 @@
+{"Name":"Acid Splash\r","Lv":"Cantrip (VS)","Range":"Range=60ft.\r","Mat":"Nothing","Desc":"Takes 1 action to cast\nYou hurl a bubble of acid.\nChoose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.\r","Tags":["Concentration"]}

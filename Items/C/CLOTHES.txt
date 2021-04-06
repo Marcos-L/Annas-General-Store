@@ -1,0 +1,1 @@
+{"Name":"Clothes\r","Price":"?gp","Desc":"I have Fine Clothes, Common Clothes, Costume Clothes, and Traveler's clothes","Tags":[]}

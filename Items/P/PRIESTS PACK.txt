@@ -1,0 +1,1 @@
+{"Name":"Priest's Pack\r","Price":"19gp","Desc":"This kit includes:\n1 backpack , 1 Blanket , 1 Tinderbox , 10 Candles , 1 Donation Box , 1 Waterskin, 1 set of Vestments , 2 blocks of Incense , 1 Censer , 2 Days of Food.","Tags":["Pack"]}

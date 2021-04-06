@@ -1,0 +1,1 @@
+{"Name": "Aura Of Warding", "Desc": "Ancient magic lies so heavily upon you that it forms an eldritch ward. you and friendly creatures within 10 feet of you have resistance to damage from spells.\n\nat 18th level, the range of this aura increases to 30 feet.", "Tags": ["Paladin"]}
