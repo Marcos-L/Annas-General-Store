@@ -1,1 +1,1 @@
-{"Name": "Rush Of The Gale Spirits", "Desc": "You can spend 2 ki points to cast gust of wind.", "Tags": ["Monk"]} "Tags": [""]}
+{"Name": "Rush Of The Gale Spirits", "Desc": "You can spend 2 ki points to cast gust of wind.", "Tags": ["Monk"]}

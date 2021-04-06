@@ -1,1 +1,1 @@
-{"Name": "Mist Stance", "Desc": "You can spend 4 ki points to cast gaseous form, targeting yourself.", "Tags": ["Monk"]}: [""]}
+{"Name": "Mist Stance", "Desc": "You can spend 4 ki points to cast gaseous form, targeting yourself.", "Tags": ["Monk"]}

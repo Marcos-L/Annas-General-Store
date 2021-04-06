@@ -1,1 +1,1 @@
-{"Name": "Fighting Style Defense", "Desc": "While you are wearing armor, you gain a +1 bonus to ac.", "Tags": [""]}Tags": [""]}
+{"Name": "Fighting Style Defense", "Desc": "While you are wearing armor, you gain a +1 bonus to ac.", "Tags": [""]}

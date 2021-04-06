@@ -1,1 +1,1 @@
-{"Name": "Flames Of The Phoenix", "Desc": "You can spend 4 ki points to cast fireball.", "Tags": ["Monk"]}s two", "Tags": [""]}
+{"Name": "Flames Of The Phoenix", "Desc": "You can spend 4 ki points to cast fireball.", "Tags": ["Monk"]}

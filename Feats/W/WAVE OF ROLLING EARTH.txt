@@ -1,1 +1,1 @@
-{"Name": "Wave Of Rolling Earth", "Desc": "You can spend 6 ki points to cast wall of stone.", "Tags": ["Monk"]}", "Tags": [""]}
+{"Name": "Wave Of Rolling Earth", "Desc": "You can spend 6 ki points to cast wall of stone.", "Tags": ["Monk"]}

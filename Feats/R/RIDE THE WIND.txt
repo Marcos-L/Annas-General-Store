@@ -1,1 +1,1 @@
-{"Name": "Ride The Wind", "Desc": "You can spend 4 ki points to cast fly, targeting yourself.", "Tags": ["Monk"]} "Tags": [""]}
+{"Name": "Ride The Wind", "Desc": "You can spend 4 ki points to cast fly, targeting yourself.", "Tags": ["Monk"]}

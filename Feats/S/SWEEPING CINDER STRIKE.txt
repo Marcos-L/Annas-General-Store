@@ -1,1 +1,1 @@
-{"Name": "Sweeping Cinder Strike", "Desc": "You can spend 2 ki points to cast burning hands.", "Tags": ["Monk"]}, "Tags": [""]}
+{"Name": "Sweeping Cinder Strike", "Desc": "You can spend 2 ki points to cast burning hands.", "Tags": ["Monk"]}

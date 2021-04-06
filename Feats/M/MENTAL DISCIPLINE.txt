@@ -1,1 +1,1 @@
-{"Name": "Mental Discipline", "Desc": "You have resistance to psychic damage.", "Tags": ["Kalashtar"]}leeps two", "Tags": [""]}
+{"Name": "Mental Discipline", "Desc": "You have resistance to psychic damage.", "Tags": ["Kalashtar"]}

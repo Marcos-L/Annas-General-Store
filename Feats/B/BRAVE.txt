@@ -1,1 +1,1 @@
-{"Name": "Brave", "Desc": "You have advantage on saving throws against being frightened.", "Tags": ["Halfling"]}, "Tags": [""]}
+{"Name": "Brave", "Desc": "You have advantage on saving throws against being frightened.", "Tags": ["Halfling"]}
