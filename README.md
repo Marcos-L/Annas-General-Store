@@ -13,6 +13,10 @@ Want to keep the highest or lowest roll? This is the option for you. Completely 
 ### [Modifier]
 Add or substract from the end result. Optional parameter.
 
+Example:
+
+![alt text](https://github.com/Marcos-L/Anna-And-Co-bot/blob/master/roll1.PNG)
+![alt text](https://github.com/Marcos-L/Anna-And-Co-bot/blob/master/roll2.PNG)
 ## /s
 Ask Anna about a specific spell. Make sure to add spaces in spells like Fire bolt.
 
